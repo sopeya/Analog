@@ -23,8 +23,9 @@ html, body{
 	box-shadow:-12px 14px 10px #BAA592;
 }
 
-.jpeg img:hover{
+.jpeg:hover{
 	transform: scale(1.2);
+	box-shadow:-12px 14px 10px #A4A09D ;
 }
 
 ul {
