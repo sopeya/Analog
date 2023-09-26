@@ -1,6 +1,6 @@
 html, body{
 	font size: 80%;
-	font-family: "Palatino", Courier, monospace;
+	font-family: Palatino, Courier, monospace;
 	letter-spacing: 0.15em;
 	background-color: #A4A09D;
 }
@@ -20,7 +20,7 @@ html, body{
 }
 
 #logo:hover{
-  box-shadow:-12px 14px 10px #BAA592;
+	box-shadow:-12px 14px 10px #BAA592;
 }
 
 ul {
@@ -42,7 +42,7 @@ p {
 	width: 600px;
 	margin: 20px auto 20px auto;
 	font-weight: normal;
-  color: #35271E;
+  	color: #35271E;
 }
 
 a {
@@ -56,6 +56,6 @@ a {
 a:hover{
 	color: #DAD3C9;
 	background-color: #4E3622;
-  border-radius: 15px;
-  box-shadow:-16px 13px 8px #484443;
+  	border-radius: 15px;
+  	box-shadow:-16px 13px 8px #484443;
 }
