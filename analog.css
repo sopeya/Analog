@@ -5,11 +5,11 @@ html, body{
 	background-color: #A4A09D;
 }
 header{
-	padding: 5%;
+	padding: 20%;
 	background-image: url(header.JPG);
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-position: ;
+	background-position: center ;
 	background-attachment: fixed;
 }
 
@@ -27,15 +27,15 @@ img:hover{
 }
 
 .title {
-  font-sizet: 100%;
-  font-style: bold;
-  weight: 100px;
+  	font-sizet: 100%;
+  	font-style: bold;
+  	weight: 100px;
 	width: 150px;
 	margin: 15px auto 30px auto;
 }
 
 .title:hover{
-  box-shadow: -12px 14px 10px #484443;
+  	box-shadow: -12px 14px 10px #484443;
 }
 
 ul {
