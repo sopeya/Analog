@@ -5,6 +5,7 @@ html, body{
 	background-color: #A4A09D;
 }
 header{
+	padding: 10%;
 	background-image: url(header.JPG);
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -15,7 +16,7 @@ header{
 #page {
 	max-width: 940px;
 	min-width: 720px;
-	margin: 200px auto 10px auto;
+	margin: 2px auto 10px auto;
 	padding: 20px;
 	border: 200px outset #AAB1B7;
 	background-color: #dae0da;
