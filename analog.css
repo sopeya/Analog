@@ -22,11 +22,12 @@ header{
 	background-color: #dae0da;
 }
 img:hover{
-  box-shadow: -16px 13px 10px #484443;
+	transform: scale(1.2);
+  	box-shadow: -16px 13px 10px #484443;
 }
 
 .title {
-  font-weight: medium;
+  font-sizet: 100%;
   font-style: bold;
   weight: 100px;
 	width: 150px;
